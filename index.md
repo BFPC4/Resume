@@ -6,7 +6,7 @@ title: Brian P's CV
 Student
 
 <div id="webaddress">
-    <a href="bpich003@ucr.edu">bpich003@ucr.edu</a>
+<a href="bpich003@ucr.edu">bpich003@ucr.edu</a>
 </div>
 
 ## Currently
